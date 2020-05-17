@@ -1,3 +1,5 @@
+
+
 import java.io.*;
 import java.util.ArrayList;
 import java.util.Arrays;
@@ -11,7 +13,7 @@ public class homework {
         try {
             //task1();
             //task2();
-            task3();
+            //task3();
         } catch (IOException e) {
             e.printStackTrace();
         }
